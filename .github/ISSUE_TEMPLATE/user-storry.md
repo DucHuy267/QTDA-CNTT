@@ -1,5 +1,5 @@
 ---
-name: User Stor
+name: User Storry
 about: This template  is for creating user stories
 title: ''
 labels: ''
